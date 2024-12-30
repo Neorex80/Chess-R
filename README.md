@@ -33,7 +33,7 @@ A modern, responsive chess game with AI opponent built using React and TypeScrip
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/chess-ai.git
+   git clone https://github.com/Neorex80/Chess-R.git
    ```
 
 2. Install dependencies:
